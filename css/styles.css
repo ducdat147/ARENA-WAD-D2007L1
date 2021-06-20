@@ -459,3 +459,40 @@ p {
 .footer-area .single-footer-widget ul li a {
     color: #797979;
 }
+
+.footer-area .single-footer-widget .click-btn {
+    font-family: "Roboto",sans-serif;
+    color: #3a414e;
+    border-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 8px 20px;
+    border: 0;
+    font-size: 14px;
+    background: #fff;
+    font-weight: 500;
+    text-transform: capitalize;
+    position: relative;
+    left: -50px;
+}
+
+.footer-area .single-footer-widget input {
+    height: 48px;
+    border: none;
+    width: 67%!important;
+    font-weight: 400;
+    background: rgba(255,255,255,.2);
+    color: #fff;
+    padding-left: 20px;
+    border-radius: 0;
+    font-size: 14px;
+    padding: 10px;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1.5;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.footer-area .single-footer-widget .form-wrap {
+    margin-top: 25px;
+}
